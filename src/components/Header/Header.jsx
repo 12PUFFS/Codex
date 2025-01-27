@@ -36,8 +36,8 @@ function Header () {
         </ul>
       </nav>
       <div className="header-btns-list">
-              <button class="header-btns--desable">Login</button>
-              <button class="header-btns--active">Sign up</button>
+              <button className="header-btns--desable">Login</button>
+              <button className="header-btns--active">Sign up</button>
             </div>
     </header>
    </div>
